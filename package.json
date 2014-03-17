@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/reworkcss/rework-plugin-inline.git"
+    "url": "git://github.com/reworkcss/rework-plugin-colors.git"
   },
   "keywords": [
     "browser",
