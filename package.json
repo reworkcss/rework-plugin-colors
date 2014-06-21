@@ -32,6 +32,6 @@
   "dependencies": {
     "color-parser": "0.1.0",
     "hsb2rgb": "1.0.2",
-    "rework-plugin-function": "^0.1.2"
+    "rework-plugin-function": "^1.0.0"
   }
 }
